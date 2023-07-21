@@ -18,4 +18,4 @@
 **Today's Progress**: Solved the following Leetcode Problems:  
 
 
-**Link(s) to work**: [Pallindrome Number]([https://leetcode.com/problems/longest-substring-without-repeating-characters/description/](https://leetcode.com/problems/palindrome-number)https://leetcode.com/problems/palindrome-number)
+**Link(s) to work**: [Pallindrome Number](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/](https://leetcode.com/problems/palindrome-number)https://leetcode.com/problems/palindrome-number)
