@@ -19,7 +19,7 @@ The rules are simple:
 - Have fun and enjoy the process!
 
 
-## Day 0: July 18, 2023
+## Day 0: Sept 12, 2024
 
 **Today's Progress**: Set up this repository and wrote this README file.
 
